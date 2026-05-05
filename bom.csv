@@ -1,0 +1,21 @@
+Name,Purpose,Quantity,Total (USD),Link,Distributor
+RP2040,Dual-core ARM Cortex-M0+ microcontroller - the brain of the board,1,$0.69 ,https://www.lcsc.com/product-detail/C2040.html,JLCPCB (C2040)
+W25Q16JVUXIQ Flash,16Mbit SPI NOR Flash - stores firmware and data,1,$0.18 ,https://www.lcsc.com/product-detail/C2843335.html,JLCPCB (C2843335)
+12MHz Crystal (X322512MSB4SI),Crystal oscillator - synchronises USB and RP2040 communication,1,$0.04 ,https://www.lcsc.com/product-detail/C9002.html,JLCPCB (C9002)
+TYPE-C-31-M-12 USB-C Receptacle,USB-C port - data transfer and board power input,1,$0.09 ,https://www.lcsc.com/product-detail/C165948.html,JLCPCB (C165948)
+MCP1700T-3302E/TT LDO,3.3V voltage regulator - powers all 3.3V components,1,$0.18 ,https://www.lcsc.com/product-detail/C39051.html,JLCPCB (C39051)
+Alps SKRKAHE020 Tactile Switch,Reset/boot switch - resets or boot-selects the RP2040,1,$0.08 ,https://www.lcsc.com/product-detail/C202388.html,LCSC (C202388)
+1x20 Pin Headers (x2),GPIO breakout - exposes all RP2040 pins for external projects,10,$1.50 ,https://www.aliexpress.com,AliExpress
+Soldering Iron,To solder the connectors and switch,1,$5.30 ,https://www.aliexpress.com,AliExpress
+100nF 0402 Capacitor (x11),Decoupling - filters noise on power rails,11,$0.02 ,https://www.lcsc.com/product-detail/C1525.html,JLCPCB (C1525)
+1uF 0402 Capacitor (x2),Bulk decoupling - stabilises power at RP2040 and USB,2,$0.02 ,https://www.lcsc.com/product-detail/C52923.html,JLCPCB (C52923)
+10uF 0603 Capacitor (x2),Input/output bulk capacitance - LDO stability,2,$0.02 ,https://www.lcsc.com/product-detail/C19702.html,JLCPCB (C19702)
+33pF 0402 Capacitor (x2),Crystal load capacitors - correct oscillator loading,2,$0.01 ,https://www.lcsc.com/product-detail/C1557.html,JLCPCB (C1557)
+5.1k 0402 Resistor (x2),USB-C CC resistors - identifies board as USB device to host,2,$0.01 ,https://www.lcsc.com/product-detail/C25905.html,JLCPCB (C25905)
+27R 0402 Resistor (x2),USB D+/D- series resistors - USB signal integrity,2,$0.01 ,https://www.lcsc.com/product-detail/C352446.html,JLCPCB (C352446)
+1k 0402 Resistor (x2),Current limiting / pull resistors,2,$0.01 ,https://www.lcsc.com/product-detail/C11702.html,JLCPCB (C11702)
+10k 0402 Resistor,Pull-up/pull-down bias resistor,1,$0.01 ,https://www.lcsc.com/product-detail/C25744.html,JLCPCB (C25744)
+PCB Fabrication (devvyboard_Y4),2-layer PCB - the board itself,5,$2.00 ,-,JLCPCB
+PCBA Assembly,SMT assembly of all SMD components,2,$80.06 ,-,JLCPCB
+Shipping,Delivery,1,$18.50 ,-,JLCPCB + AliExpress
+TOTAL,,,,$107.36 ,
