@@ -4,6 +4,18 @@ The rp2040 dev board is  a micro-controller unit that consist of the rp2040 micr
 ##  Why i built it ?
 I built devvy, to understand in depth what exactly goes on in a micro-controller, and how exactly do teh components interact, and now i understand what goes on behind the scenes plus i made a rp2040 dev board.
 
+## Assembly Instructions
+1. PCB Assembly: All 0402/0603 SMD components soldered by PCBWay PCBA
+2. Manual Soldering: 
+   - pin Headers 
+3. Testing: Apply 5V via USB-C, probe 3V3 rail with multimeter (should show 3.3V)
+4. Firmware: Flash using RP2040 USB bootloader (hold BOOT, press RESET, drag `.uf2` to `RPI-RP2` drive)
+
+## CAD & Design Files
+- PCB Design : KiCAD – see `devvyboard/` folder
+- Gerbers: `devvyboard_gebers.zip`
+- 3D CAD: `.step` files in `devvyboard_3d_step/` folder
+
 I tested it with an LED on the 3v3 and it works fine, will proceed to much complex projects later on.
 
 ## The Final Soldered Borad
