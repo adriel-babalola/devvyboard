@@ -4,10 +4,21 @@ The rp2040 dev board is  a micro-controller unit that consist of the rp2040 micr
 ##  Why i built it ?
 I built devvy, to understand in depth what exactly goes on in a micro-controller, and how exactly do teh components interact, and now i understand what goes on behind the scenes plus i made a rp2040 dev board.
 
+I tested it with an LED on the 3v3 and it works fine, will proceed to much complex projects later on.
+
+## The Final Soldered Borad
+
+![alt text](image-4.jpg)
+
+## The CAD View 
 ![alt text](image.png)
 
 ![alt text](image-1.png)
 
+## The Schematics 
+![alt text](image-3.png)
+
+## The Final Routed PCB
 ![alt text](image-2.png)
 
 ## Bill of Materials
